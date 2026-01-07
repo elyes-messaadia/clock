@@ -42,6 +42,7 @@ Après qu'un vilain chat a fait tomber l'horloge préférée de Mamie Jeannine, 
    pip install keyboard
 
    python projet perso.py
+    ```
 
 ### Gestion des Erreurs et Exceptions
 
